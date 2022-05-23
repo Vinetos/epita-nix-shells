@@ -20,6 +20,8 @@ let
         cowplot
         car
         lubridate
+        corrplot
+        psych
       ];
     };
 
